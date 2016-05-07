@@ -1,2 +1,3 @@
 # hello-world
-first repo
+## Author
+ - Harryi3t
